@@ -74,10 +74,10 @@ var json = cb.serialise();
 ## Todo:
 
 - Many more options to add
-- Editability of the generated HTML via inline WYSIWYG _(this is key for this project)_
+- Editability of the generated HTML via inline WYSIWYG (this is key for this project)
 - Conversion of HTML to `<canvas>` and then exporting options for image formats for web & print
--
 - Create a much better write-up here once the project is more well-established and usable
+- Easy repositioning & resizing of elements in the canvas
 
 
 #### But aren't there other plugins and stuff out there like this?
