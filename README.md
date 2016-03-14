@@ -65,7 +65,9 @@ var data = [
 // Create a new instance of Corkbrd, HTML is generated on instantiation
 var cb = new Corkbrd(options, data);
 
-// Convert the HTML back into JSON
+// ... do some things with the html ...
+
+// Later convert the HTML back into JSON
 var json = cb.serialise();
 
 ```
